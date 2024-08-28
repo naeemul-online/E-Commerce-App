@@ -5,6 +5,7 @@ import Login from "../auth/Login";
 import SignUp from "../auth/SignUp";
 
 export const router = createBrowserRouter([
+  /* Main Root */
   {
     path: "/",
     element: <MainLayout></MainLayout>,
