@@ -9,7 +9,7 @@ dotenv.config();
 const app = express();
 const PORT = process.env.PORT || 5000;
 
-// Apply CORS middleware
+
 // middleware
 
 const corsOrigin ={
