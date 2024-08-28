@@ -222,6 +222,8 @@ const ProductList = () => {
             </button>
           </div>
 
+          {/* Div Card Section */}
+
           {filteredData == 0 ? (
             <h2>Data not found</h2>
           ) : (
