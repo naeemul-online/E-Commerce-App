@@ -2,7 +2,7 @@
     {
       "productId": 1,
       "name": "Wireless Earbuds",
-      "image": "https://example.com/images/wireless-earbuds.jpg",
+      "image": "https://i.ibb.co/wsCVgFq/Wireless-Earbuds.jpg",
       "description": "High-quality wireless earbuds with noise cancellation.",
       "price": 79.99,
       "category": "Electronics",
@@ -13,7 +13,7 @@
     {
       "productId": 2,
       "name": "Gaming Laptop",
-      "image": "https://example.com/images/gaming-laptop.jpg",
+      "image": "https://i.ibb.co/CbQLmCN/Gaming-Laptop.jpg",
       "description": "Powerful gaming laptop with high-performance graphics card.",
       "price": 1299.99,
       "category": "Computers",
@@ -24,7 +24,7 @@
     {
       "productId": 3,
       "name": "Smartwatch",
-      "image": "https://example.com/images/smartwatch.jpg",
+      "image": "https://i.ibb.co/MST4NCH/Smartwatch.jpg",
       "description": "Advanced smartwatch with fitness tracking and GPS.",
       "price": 199.99,
       "category": "Wearables",
@@ -35,7 +35,7 @@
     {
       "productId": 4,
       "name": "4K TV",
-      "image": "https://example.com/images/4k-tv.jpg",
+      "image": "https://i.ibb.co/VwtrMRh/4K-TV.jpg",
       "description": "Ultra HD 4K TV with vibrant colors and deep contrasts.",
       "price": 499.99,
       "category": "Electronics",
@@ -46,7 +46,7 @@
     {
       "productId": 5,
       "name": "Running Shoes",
-      "image": "https://example.com/images/running-shoes.jpg",
+      "image": "https://i.ibb.co/1rdCFmd/Running-Shoes.jpg",
       "description": "Comfortable running shoes with excellent grip and support.",
       "price": 59.99,
       "category": "Footwear",
@@ -57,7 +57,7 @@
     {
       "productId": 6,
       "name": "Bluetooth Speaker",
-      "image": "https://example.com/images/bluetooth-speaker.jpg",
+      "image": "https://i.ibb.co/CJLyYsY/Bluetooth-Speaker.jpgg",
       "description": "Portable Bluetooth speaker with powerful sound.",
       "price": 49.99,
       "category": "Electronics",
@@ -68,7 +68,7 @@
     {
       "productId": 7,
       "name": "Digital Camera",
-      "image": "https://example.com/images/digital-camera.jpg",
+      "image": "https://i.ibb.co/StY7pjK/Digital-Camera.jpg",
       "description": "High-resolution digital camera with 20MP sensor.",
       "price": 299.99,
       "category": "Cameras",
@@ -79,7 +79,7 @@
     {
       "productId": 8,
       "name": "Fitness Tracker",
-      "image": "https://example.com/images/fitness-tracker.jpg",
+      "image": "https://i.ibb.co/bFP0hm4/Fitness-Tracker.jpg",
       "description": "Lightweight fitness tracker with heart rate monitor.",
       "price": 69.99,
       "category": "Wearables",
@@ -90,7 +90,7 @@
     {
       "productId": 9,
       "name": "Laptop Backpack",
-      "image": "https://example.com/images/laptop-backpack.jpg",
+      "image": "https://i.ibb.co/C738f2Y/Laptop-Backpack.jpg",
       "description": "Durable laptop backpack with multiple compartments.",
       "price": 39.99,
       "category": "Accessories",
@@ -101,7 +101,7 @@
     {
       "productId": 10,
       "name": "Noise-Canceling Headphones",
-      "image": "https://example.com/images/noise-canceling-headphones.jpg",
+      "image": "https://i.ibb.co/Q8HNmFx/Noise-Canceling-Headphones.jpg",
       "description": "Over-ear headphones with active noise cancellation.",
       "price": 129.99,
       "category": "Electronics",
@@ -112,7 +112,7 @@
     {
       "productId": 11,
       "name": "Wireless Mouse",
-      "image": "https://example.com/images/wireless-mouse.jpg",
+      "image": "https://i.ibb.co/TPN4hQt/Wireless-Keyboard-and-Mouse-Combo.jpg",
       "description": "Ergonomic wireless mouse with adjustable DPI.",
       "price": 29.99,
       "category": "Computers",
@@ -123,7 +123,7 @@
     {
       "productId": 12,
       "name": "Action Camera",
-      "image": "https://example.com/images/action-camera.jpg",
+      "image": "https://i.ibb.co/0ZhyCzJ/Action-Camera-Mount.jpg",
       "description": "Waterproof action camera with 4K recording capability.",
       "price": 199.99,
       "category": "Cameras",
@@ -134,7 +134,7 @@
     {
       "productId": 13,
       "name": "Smart Thermostat",
-      "image": "https://example.com/images/smart-thermostat.jpg",
+      "image": "https://i.ibb.co/vmCxfsg/Smart-Thermostat.jpg",
       "description": "Energy-efficient smart thermostat with remote control.",
       "price": 149.99,
       "category": "Electronics",
@@ -145,7 +145,7 @@
     {
       "productId": 14,
       "name": "Running Watch",
-      "image": "https://example.com/images/running-watch.jpg",
+      "image": "https://i.ibb.co/d5p1MzF/Running-Socks.jpg",
       "description": "GPS-enabled running watch with heart rate monitor.",
       "price": 179.99,
       "category": "Wearables",
@@ -156,7 +156,7 @@
     {
       "productId": 15,
       "name": "Noise-Isolating Earphones",
-      "image": "https://example.com/images/noise-isolating-earphones.jpg",
+      "image": "https://i.ibb.co/rFrMjf6/Noise-Canceling-Earbuds.jpg",
       "description": "Compact earphones with noise-isolating technology.",
       "price": 49.99,
       "category": "Electronics",
@@ -167,7 +167,7 @@
     {
       "productId": 16,
       "name": "Portable Charger",
-      "image": "https://example.com/images/portable-charger.jpg",
+      "image": "https://i.ibb.co/H2zs0Sj/Portable-Charger.jpg",
       "description": "High-capacity portable charger with fast charging.",
       "price": 39.99,
       "category": "Accessories",
@@ -178,7 +178,7 @@
     {
       "productId": 17,
       "name": "DSLR Camera",
-      "image": "https://example.com/images/dslr-camera.jpg",
+      "image": "https://i.ibb.co/ws5ddxG/DSLR-Camera.jpg",
       "description": "Professional DSLR camera with interchangeable lenses.",
       "price": 999.99,
       "category": "Cameras",
@@ -189,7 +189,7 @@
     {
       "productId": 18,
       "name": "Bluetooth Earphones",
-      "image": "https://example.com/images/bluetooth-earphones.jpg",
+      "image": "https://i.ibb.co/5hGTyXd/Bluetooth-Earphones.jpg",
       "description": "Wireless Bluetooth earphones with long battery life.",
       "price": 59.99,
       "category": "Electronics",
@@ -200,7 +200,7 @@
     {
       "productId": 19,
       "name": "Laptop Cooling Pad",
-      "image": "https://example.com/images/laptop-cooling-pad.jpg",
+      "image": "https://i.ibb.co/F0JXDT2/Laptop-Cooling-Pad.jpg",
       "description": "Effective cooling pad for laptops with dual fans.",
       "price": 24.99,
       "category": "Computers",
@@ -211,7 +211,7 @@
     {
       "productId": 20,
       "name": "Smartphone Gimbal",
-      "image": "https://example.com/images/smartphone-gimbal.jpg",
+      "image": "https://i.ibb.co/1T5B5p3/Smartphone-Gimbal.jpg",
       "description": "Stabilizing gimbal for smartphones with 3-axis control.",
       "price": 129.99,
       "category": "Accessories",
@@ -222,7 +222,7 @@
     {
       "productId": 21,
       "name": "Running Belt",
-      "image": "https://example.com/images/running-belt.jpg",
+      "image": "https://i.ibb.co/3CsYZ09/Running-Belt.jpg",
       "description": "Lightweight running belt with multiple pockets.",
       "price": 19.99,
       "category": "Accessories",
@@ -233,7 +233,7 @@
     {
       "productId": 22,
       "name": "Mechanical Keyboard",
-      "image": "https://example.com/images/mechanical-keyboard.jpg",
+      "image": "https://i.ibb.co/3yynF9q/Mechanical-Keyboard.jpg",
       "description": "High-quality mechanical keyboard with RGB backlighting.",
       "price": 89.99,
       "category": "Computers",
@@ -244,7 +244,7 @@
     {
       "productId": 23,
       "name": "Wireless Charger",
-      "image": "https://example.com/images/wireless-charger.jpg",
+      "image": "https://i.ibb.co/0qXnr6p/Wireless-Charger.jpg",
       "description": "Fast wireless charger for smartphones and wearables.",
       "price": 49.99,
       "category": "Accessories",
@@ -255,7 +255,7 @@
     {
       "productId": 24,
       "name": "Fitness Band",
-      "image": "https://example.com/images/fitness-band.jpg",
+      "image": "https://i.ibb.co/dcSm6vD/Fitness-Band.jpg",
       "description": "Stylish fitness band with heart rate monitor and step counter.",
       "price": 69.99,
       "category": "Wearables",
@@ -266,7 +266,7 @@
     {
       "productId": 25,
       "name": "Wireless Keyboard and Mouse Combo",
-      "image": "https://example.com/images/wireless-keyboard-mouse.jpg",
+      "image": "https://i.ibb.co/TPN4hQt/Wireless-Keyboard-and-Mouse-Combo.jpg",
       "description": "Compact wireless keyboard and mouse combo.",
       "price": 49.99,
       "category": "Computers",
@@ -277,7 +277,7 @@
     {
       "productId": 26,
       "name": "Noise-Canceling Earbuds",
-      "image": "https://example.com/images/noise-canceling-earbuds.jpg",
+      "image": "https://i.ibb.co/wsCVgFq/Wireless-Earbuds.jpg",
       "description": "In-ear noise-canceling earbuds with crystal-clear sound.",
       "price": 79.99,
       "category": "Electronics",
@@ -288,7 +288,7 @@
     {
       "productId": 27,
       "name": "Action Camera Mount",
-      "image": "https://example.com/images/action-camera-mount.jpg",
+      "image": "https://i.ibb.co/0ZhyCzJ/Action-Camera-Mount.jpg",
       "description": "Adjustable mount for action cameras, perfect for adventures.",
       "price": 29.99,
       "category": "Cameras",
@@ -299,7 +299,7 @@
     {
       "productId": 28,
       "name": "Hiking Boots",
-      "image": "https://example.com/images/hiking-boots.jpg",
+      "image": "https://i.ibb.co/jyGRQKC/Hiking-Boots.jpg",
       "description": "Durable hiking boots with water-resistant material.",
       "price": 89.99,
       "category": "Footwear",
@@ -310,7 +310,7 @@
     {
       "productId": 29,
       "name": "Smart Home Hub",
-      "image": "https://example.com/images/smart-home-hub.jpg",
+      "image": "https://i.ibb.co/nQ7fZ0v/Waterproof-Smartwatch.jpg",
       "description": "Central hub for smart home devices with voice control.",
       "price": 99.99,
       "category": "Electronics",
@@ -321,7 +321,7 @@
     {
       "productId": 30,
       "name": "Running Socks",
-      "image": "https://example.com/images/running-socks.jpg",
+      "image": "https://i.ibb.co/d5p1MzF/Running-Socks.jpg",
       "description": "Breathable running socks with moisture-wicking fabric.",
       "price": 14.99,
       "category": "Footwear",
@@ -332,7 +332,7 @@
     {
       "productId": 31,
       "name": "Bluetooth Headphones",
-      "image": "https://example.com/images/bluetooth-headphones.jpg",
+      "image": "https://i.ibb.co/fG5t5Dt/Bluetooth-Headphones.jpg'",
       "description": "Comfortable Bluetooth headphones with deep bass.",
       "price": 99.99,
       "category": "Electronics",
@@ -343,7 +343,7 @@
     {
       "productId": 32,
       "name": "Smart Glasses",
-      "image": "https://example.com/images/smart-glasses.jpg",
+      "image": "https://i.ibb.co/SfnkMfd/Smart-Glasses.jpg",
       "description": "Wearable smart glasses with AR display and camera.",
       "price": 299.99,
       "category": "Wearables",
@@ -365,7 +365,7 @@
     {
       "productId": 34,
       "name": "Gaming Headset",
-      "image": "https://example.com/images/gaming-headset.jpg",
+      "image": "https://i.ibb.co/k9ztcDy/Laptop-Sleeve.jpg",
       "description": "Surround sound gaming headset with noise-canceling mic.",
       "price": 89.99,
       "category": "Electronics",
@@ -376,7 +376,7 @@
     {
       "productId": 35,
       "name": "Portable Bluetooth Speaker",
-      "image": "https://example.com/images/portable-bluetooth-speaker.jpg",
+      "image": "https://i.ibb.co/BPxDCSQ/Portable-Bluetooth-Speaker.jpg",
       "description": "Compact Bluetooth speaker with 360-degree sound.",
       "price": 59.99,
       "category": "Electronics",
@@ -398,7 +398,7 @@
     {
       "productId": 37,
       "name": "Wireless Charging Pad",
-      "image": "https://example.com/images/wireless-charging-pad.jpg",
+      "image": "https://i.ibb.co/nQ7fZ0v/Waterproof-Smartwatch.jpg",
       "description": "Sleek wireless charging pad with fast charging.",
       "price": 39.99,
       "category": "Accessories",
@@ -409,7 +409,7 @@
     {
       "productId": 38,
       "name": "Digital SLR Camera",
-      "image": "https://example.com/images/digital-slr-camera.jpg",
+      "image": "https://i.ibb.co/gFQT4k0/Digital-SLR-Camera.jpg",
       "description": "High-end digital SLR camera with advanced features.",
       "price": 1499.99,
       "category": "Cameras",
@@ -431,7 +431,7 @@
     {
       "productId": 40,
       "name": "USB-C Hub",
-      "image": "https://example.com/images/usb-c-hub.jpg",
+      "image": "https://i.ibb.co/dGm63t2/Smart-Home-Hub.jpg",
       "description": "Multi-port USB-C hub with HDMI, USB, and SD card slots.",
       "price": 49.99,
       "category": "Accessories",

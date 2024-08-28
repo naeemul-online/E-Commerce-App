@@ -1,16 +1,15 @@
 /* eslint-disable react/prop-types */
 
 const ProductCard = ({ product }) => {
-  const { name, description, category, createdAt, price, ratings } = product;
-    // console.log(typeof createdAt);
+  const { name, description, category, createdAt, price, ratings, image } =
+    product;
+  // console.log(typeof createdAt);
   return (
     <div className=" flex flex-col justify-between bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:shadow-xl">
-      <a href="#" >
-        <img
-          className="p-8 w-3/4 rounded-t-lg"
-          src="https://www.mobiledokan.com/media/samsung-galaxy-z-flip6-yellow-official-image_1.webp"
-          alt="product image"
-        />
+      <a href="#">
+        <div className="px-10 pt-10">
+          <img className="w-full rounded-xl" src={image} alt="product image" />
+        </div>
       </a>
       <div className="px-5 pb-5">
         <a href="#">

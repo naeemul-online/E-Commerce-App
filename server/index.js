@@ -1,3 +1,4 @@
+
 const express = require("express");
 const { MongoClient, ServerApiVersion } = require("mongodb");
 const cors = require("cors");
@@ -8,8 +9,15 @@ dotenv.config();
 const app = express();
 const PORT = process.env.PORT || 5000;
 
-// Middleware
-app.use(cors());
+// Apply CORS middleware
+// middleware
+
+const corsOrigin ={
+    origin:'http://localhost:5173', //or whatever port your frontend is using
+    credentials:true,            
+    optionSuccessStatus:200
+}
+app.use(cors(corsOrigin));
 app.use(express.json());
 
 // MongoDB Connection

@@ -4,7 +4,7 @@ import ProductCard from "./ProductCard";
 
 
 const ProductList = () => {
-  const baseURL = "http://localhost:5000/products";
+  const baseURL = "https://server-azure-alpha.vercel.app/products";
   const [products, setProducts] = useState([]);
   const [loading, setLoading] = useState(false);
 
